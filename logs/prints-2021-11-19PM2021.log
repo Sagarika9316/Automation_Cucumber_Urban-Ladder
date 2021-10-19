@@ -1,0 +1,7 @@
+12:11:37.630 [main] INFO  resources.base - Driver is initialized
+12:11:46.709 [main] INFO  resources.base - Navigated to Home Page
+12:11:48.272 [main] INFO  resources.base - Driver is initialized
+12:11:56.042 [main] INFO  resources.base - Navigated to Home Page
+12:11:56.508 [main] INFO  resources.base - Navigated to Terms and Conditions Page
+12:11:56.531 [main] INFO  resources.base - Moved to child window successfully
+12:11:59.178 [main] INFO  resources.base - Switched back to parent window

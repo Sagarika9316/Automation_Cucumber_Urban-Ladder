@@ -1,0 +1,5 @@
+12:02:02.151 [main] INFO  resources.base - Navigated to Home Page
+12:02:02.625 [main] INFO  resources.base - Navigated to Terms and Conditions Page
+12:02:02.643 [main] INFO  resources.base - Moved to child window successfully
+12:02:05.099 [main] INFO  resources.base - Switched back to parent window
+12:02:06.230 [main] INFO  resources.base - Driver is closed successfully
